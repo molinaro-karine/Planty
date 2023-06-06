@@ -6,3 +6,45 @@
   padding-bottom: 2%;
   padding-top: 2%;
 }*/
+.elementor-container.elementor-column-gap-no {
+  background-color: aliceblue;
+}
+/**Formulaire Précommande**/
+
+.vertical-line {
+  border-left: 1px solid #000;
+  display: inline-block;
+  height: 447px;
+  margin: 0px 30px;
+}
+div#formulaire-responsive {
+  display: flex;
+  align-items: stretch;
+}
+.vertical-line {
+  border: 1px solid #ffff;
+  display: inline-block;
+  height: 447px;
+  margin: 9px 44px;
+}
+h2.title {
+  font-family: "Syne";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.wpcf7-form-control-wrap input {
+  width: 383px !important;
+}
+
+/**Responsive tablette**/
+@media screen and (max-width: 992px) {
+  .vertical-line {
+    display: none;
+  }
+  div#formulaire-responsive {
+    flex-direction: column;
+  }
+}
