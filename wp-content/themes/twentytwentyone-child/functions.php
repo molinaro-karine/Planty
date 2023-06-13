@@ -2,6 +2,7 @@
 /**
 ** activation theme
 **/
+
 add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles' );
 function theme_enqueue_styles() {
  wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
@@ -16,3 +17,9 @@ function theme_enqueue_styles() {
 }
 add_action( 'wp_enqueue_scripts', 'twentytwentyone_styles');*/
 
+
+// Remove auto p from Contact Form 7 shortcode output
+add_filter('wpcf7_autop_or_not', 'wpcf7_autop_return_false');
+function wpcf7_autop_return_false() {
+    return false;
+} 
