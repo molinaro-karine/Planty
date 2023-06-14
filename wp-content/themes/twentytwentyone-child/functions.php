@@ -9,13 +9,6 @@ function theme_enqueue_styles() {
  wp_enqueue_style( 'theme-style', get_stylesheet_directory_uri() . '/css/theme.css');
 
 }
-/* enqueue scripts and style from parent theme */
-   
-/*function twentytwentyone_styles() {
-	wp_enqueue_style( 'child-style', get_stylesheet_uri(),
-	array( 'twenty-twenty-one-style' ), wp_get_theme()->get('Version') );
-}
-add_action( 'wp_enqueue_scripts', 'twentytwentyone_styles');*/
 
 
 // Remove auto p from Contact Form 7 shortcode output
@@ -23,3 +16,25 @@ add_filter('wpcf7_autop_or_not', 'wpcf7_autop_return_false');
 function wpcf7_autop_return_false() {
     return false;
 } 
+
+function my_wp_nav_menu_args( $args = '' ) {
+	if( is_user_logged_in() ) {
+	// Logged in menu to display
+	$args['menu'] = 8;
+	 
+	} else {
+	// Non-logged-in menu to display
+	$args['menu'] = 11;
+	}
+	return $args;
+	}
+	add_filter( 'wp_nav_menu_args', 'my_wp_nav_menu_args' );
+
+ /*if(is_user_logged_in()) : ?>
+		<div class="user-logged">
+			
+				<a target="_blank" href="<?php echo admin_url(); ?>">Admin</a>
+			
+		</div>
+		<?php endif; ?>*/
+	

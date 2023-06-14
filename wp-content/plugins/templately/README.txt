@@ -1,11 +1,11 @@
-=== Templately - Templates Cloud for Elementor & Gutenberg : 3000+ Free & Premium Designs! ===
+=== Templately - Templates Cloud for Elementor & Gutenberg : 4000+ Free & Premium Designs! ===
 Contributors: templately, wpdevteam, re_enter_rupok, Asif2BD, priyomukul, rahat89, shadab109
 Donate link: https://templately.com
-Tags: templates, elementor, template-cloud, template, clouds, elementor templates, gutenberg, gutenberg templates, wordpress cloud, cloud backup
+Tags: Elementor, template, templates, Gutenberg, template kits, elementor template, Gutenberg template, block pattern, blocks, layouts, patterns, Website Design, design, Responsive Layouts, landing page, page, section
 Requires at least: 5.0
 Tested up to: 6.2
 Requires PHP: 5.6
-Stable tag: 2.2.0
+Stable tag: 2.2.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -13,9 +13,9 @@ Ultimate Free Templates Cloud for WordPress - Elementor & Gutenberg! 3000+ Free 
 
 == Description ==
 
-= Ultimate Free Templates Cloud for WordPress - Elementor & Gutenberg Supported =
+= ULTIMATE FREE TEMPLATES CLOUD FOR WORDPRESS – ELEMENTOR & GUTENBERG SUPPORTED =
 
-Take your favourite Page Builders to a whole new level & manage all your designs in one place with [Templately](https://templately.com)
+Take your favorite Page Builders to a whole new level & manage all your designs in one place with [Templately](https://templately.com)
 
 https://www.youtube.com/watch?v=coLxfjnrm3I
 
@@ -23,28 +23,36 @@ https://www.youtube.com/watch?v=coLxfjnrm3I
 
 Save all your designs with Templately & deploy in hundreds of websites with 1-click. Increase productivity and power up your whole team to build websites faster than ever before.
 
-### 🌟 Stunning Free Templates: ###
+### 🌟 STUNNING FREE TEMPLATES: ###
 
 Sign up right now and get started with beautiful Templates. You can just import these designs with 1 click & start creating WordPress pages.
 
-### 🚀 Free Storage at MyCloud ###
+### 🚀 FREE STORAGE AT MYCLOUD ###
 
 Save your design templates in MyCloud storage and access all your Saved Templates anytime from any device.
 
-### ⚙️ Seamless Integration With Page Builders ###
+### 🤝 COLLABORATE AT MY WORKSPACE ###
+
+Invite your team to work together while building a website and get your work done faster than ever.
+
+### ⚙️ SEAMLESS INTEGRATION WITH PAGE BUILDERS ###
 
 Create landing pages with Elementor, Gutenberg and boost up your page building experience to the next level.
 
-### 🔥 Over 2000 Elementor Templates Available Already ###
+### 🔥 Over 2000+ Elementor Templates Available Already ###
 
-Elementor Template are easiest way to build website fast with the most popular pagebuilder, we have 2000+ templates available already.
+Elementor Templates are the easiest way to build websites fast with the most popular pagebuilder, we have 2000+ templates available already.
 
-### 👨‍💻 Super Friendly Support ###
+### 🔥 READY TO USE OVER 1000+ GUTENBERG TEMPLATES ###
+
+Unlock the true possibilities of the Gutenberg block editor with ready-to-use templates from Templately. More than 1000+ templates are ready to build your website in one click.
+
+### 👨‍💻 SUPER FRIENDLY SUPPORT ###
 
 Get help and assistance from our dedicated forum support and create stunning landing pages with Templately.
 
 
-### 🔥 Advanced Premium Templates [PRO] ###
+### 🔥 ADVANCED PREMIUM TEMPLATES [PRO] ###
 
 Create conversion optimized landing pages for every niche using the Templately PRO templates packs.
 
@@ -72,12 +80,12 @@ This Templates Cloud is brought to you by the team behind [WPDeveloper](https://
 If you like Templately, then consider checking out our other WordPress Plugins:
 
 - 🔝 [Essential Addons For Elementor](https://wordpress.org/plugins/essential-addons-for-elementor-lite/) – Most popular Elementor extensions with 1 Million+ active users in the WordPress repository.
+- 🧱 [Essential Blocks for Gutenberg](https://wordpress.org/plugins/essential-blocks/) – Ultimate Gutenberg block library with 45+ exclusive blocks.
 - 🔔 [NotificationX](https://notificationx.com/) – Best Social Proof & FOMO Marketing Solution to increase conversion rates.
 - ⏰ [SchedulePress](https://wordpress.org/plugins/wp-scheduled-posts/) – Complete solution for WordPress Post Scheduling to manage schedules through an editorial calendar.
 - 📄 [EmbedPress](https://wordpress.org/plugins/embedpress/): EmbedPress lets you embed videos, images, posts, audio, maps and upload PDF, DOC, PPT & all other types of content into your WordPress site with one-click and showcase it beautifully for the visitors.
 - 📚 [BetterDocs](https://wordpress.org/plugins/betterdocs/): Best Documentation & Knowledge Base Plugin for WordPress reduce manual support tickets & improve user experience.
-- ⭐ [ReviewX](https://wordpress.org/plugins/reviewx/): WooCommerce Product review plugin that allows users to submit product reviews with multiple criteria, photos, video and more.
-- ⚡ [Flexia](http://wordpress.org/plugins/flexia): Most lightweight, customizable & multi purpose theme for WordPress.
+- 💼 [easy.jobs](https://wordpress.org/plugins/easyjobs/): One-stop recruitment solution for finding the right talent with an AI-powered screening system, and much more.
 
 Visit [WPDeveloper](https://wpdeveloper.com/) to learn more about how to do better in WordPress with [Help Tutorial, Tips & Tricks](https://wpdeveloper.com/blog).
 
@@ -101,17 +109,33 @@ Visit [WPDeveloper](https://wpdeveloper.com/) to learn more about how to do bett
 
 Yes, it will work with any standard WordPress theme.
 
+= How to use Templately templates? =
+First you have to install Templately on your website then choose your favorite template from the dashboard. With just a single click you can insert Templately templates on your website.
+
+= Does Templately have WooCommerce Templates? =
+Templately has a lot of eCommerce templates which fully supports WooCommerce. So, you can build your WooCommerce store with Templately Templates.
+
+= Can I save my Templates for reusing? =
+Yes. Template comes with Cloud Storage. You can easily save your templates there and reuse them anytime.
+
+= Does Templately have free templates? =
+Yes, We have many free templates for Elementor & Gutenberg that you can use to build your website.
+
+
 
 == Screenshots ==
 
-1. Template Gallery
-2. Importing ready templates
-3. Saving templates in cloud
-4. Importing templates from MyCloud
-5. Templately WorkSpace
+1. Importing Templately Template
+2. Saving Templates in Cloud
+3. Template Gallery
+4. Templately My Clouds
+5. Templately My WorkSpace
 
 
 == Changelog ==
+
+= 2.2.1 - 12-06-2023 =
+Few minor bug fixes and improvements.
 
 = 2.2.0 - 11-05-2023 =
 Added: New pricing plan based on active sites.
@@ -348,7 +372,7 @@ Few minor bug fix and improvements
 
 = 0.1.3 - 15-03-2020 =
 
-* Fixed : Conflict with Gutenerg cloud
+* Fixed : Conflict with Gutenberg cloud
 
 = 0.1.2 - 15-03-2020 =
 
