@@ -14,10 +14,9 @@ div#formulaire-responsive-add {
 
 .number-add {
   display: flex;
-  /*align-items: center;*/
 }
 
-#number-input {
+.number-input {
   height: 56px;
   width: 51px;
   display: flex;
@@ -70,7 +69,6 @@ h2.title {
   background: #dc9f96;
   border-radius: 4px;
   border: 1px solid #ddd;
-  /*display: inline-block;*/
   vertical-align: middle;
   text-align: center;
   color: #ffffff;
@@ -84,16 +82,12 @@ h2.title {
   border-bottom: 1px solid #000;
   border-radius: 0 5px 0 0;
   justify-content: center;
-  /* display: flex;
-  align-items: center;*/
   box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.04);
 }
 
 .minus {
   border-radius: 0 0 4px 0;
   display: flex;
-  /*justify-content: center;
-  align-items: center;*/
 }
 
 .number-btn {
@@ -177,12 +171,12 @@ h2.number-fruits {
     .wpcf7-form
     input[type="submit"] {
     margin: 24px 80px !important;
-  } /*menu*/
+  }
+  /*menu*/
   .elementor-398
     .elementor-element.elementor-element-91f6ca5
     .hfe-nav-menu__toggle {
     margin: 0 20px;
-    /* margin-right: 94px; */
     display: flex;
     justify-content: flex-end;
     margin-top: 20px;
