@@ -23,7 +23,6 @@ div#formulaire-responsive-add {
   align-items: center;
   justify-content: center;
   font-size: 15px;
-  border: 1px solid #ddd;
   border-radius: 4px 0 0px 4px;
   background: #ffffff;
   box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.04);
@@ -42,7 +41,7 @@ div#formulaire-responsive {
 }
 
 .vertical-line {
-  border: 1px solid #ffff;
+  border-left: 1px solid #ffff;
   display: inline-block;
   height: 447px;
   margin: 9px 44px;
@@ -68,7 +67,6 @@ h2.title {
   height: 28px;
   background: #dc9f96;
   border-radius: 4px;
-  border: 1px solid #ddd;
   vertical-align: middle;
   text-align: center;
   color: #ffffff;
